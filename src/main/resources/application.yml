@@ -80,4 +80,9 @@ wx:
   open:
     appId: xxx
     appSecret: xxx
+# 鱼聪明 AI 配置（https://yucongming.com/）
+yuapi:
+  client:
+    access-key: e0ti6v4ofmfxzu6lel1sgt456tntsyo6
+    secret-key: b4dt5csxfoxzc6ccctu1bxkuik9i1yd0
 

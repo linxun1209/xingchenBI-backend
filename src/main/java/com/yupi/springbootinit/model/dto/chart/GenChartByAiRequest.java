@@ -19,7 +19,7 @@ public class GenChartByAiRequest implements Serializable {
     private String name;
 
     /**
-     * 名称
+     * 目标
      */
     private String goal;
 
