@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.mp;
+package com.yupi.springbootinit.mq;
 
 import com.rabbitmq.client.AMQP;
 import com.rabbitmq.client.Channel;
@@ -15,9 +15,7 @@ public class TtlProducer {
         // 创建连接工厂
         ConnectionFactory factory = new ConnectionFactory();
         factory.setHost("localhost");
-//        factory.setUsername();
-//        factory.setPassword();
-//        factory.setPort();
+
 
         // 建立连接、创建频道
         try (Connection connection = factory.newConnection();

@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.mp; /**
+package com.yupi.springbootinit.mq; /**
  * @author xingchen
  * @version V1.0
  * @Package PACKAGE_NAME

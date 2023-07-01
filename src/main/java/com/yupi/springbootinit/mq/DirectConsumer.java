@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.mp;
+package com.yupi.springbootinit.mq;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
